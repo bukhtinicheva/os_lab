@@ -8,4 +8,5 @@
 >ansible-playbook nginx.yam
 
 ## Результат балансировки(представлены кастомные страницы веб-серверов):
-![alt text]()
+<img src="./img/web1.png"/>
+<img src="./img/web11.png"/>
