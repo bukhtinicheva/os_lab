@@ -1,0 +1,9 @@
+- name: webes
+  hosts: webservers
+  roles:
+    - webes
+
+- name: Balance
+  hosts: balance
+  roles:
+    - servers
