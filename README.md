@@ -5,7 +5,7 @@
 >vagrant up
 
 ## Для запуска ansible-сценария:
->ansible-playbook nginx.yam
+>ansible-playbook nginx.yml
 
 ## Результат балансировки(представлены кастомные страницы веб-серверов):
 <img src="./img/web1.png"/>
