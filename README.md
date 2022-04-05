@@ -1,2 +1,3 @@
 # os_lab
-Лабораторные работы
+## Лабораторные работы
+![Лабораторная работа №4](https://github.com/bukhtinicheva/os_lab/tree/lab4)
