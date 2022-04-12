@@ -6,3 +6,4 @@
 
 ![Лабораторная работа №6](https://github.com/bukhtinicheva/os_lab/tree/lab6)
 
+![Лабораторная работа №7](https://github.com/bukhtinicheva/os_lab/tree/lab7)
